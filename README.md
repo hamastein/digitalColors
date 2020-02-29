@@ -1,1 +1,1 @@
-# digitalColors
+# digitalcolors
